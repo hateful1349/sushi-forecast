@@ -14,7 +14,7 @@ def train_model(X: pd.DataFrame, y: pd.Series):
         colsample_bytree=0.8,
         random_state=42,
         n_jobs=-1,
-        early_stopping_rounds=10,  # Перенос параметра сюда
+        early_stopping_rounds=10,
         eval_metric="rmse"
     )
 

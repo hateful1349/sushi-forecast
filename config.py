@@ -18,8 +18,8 @@ MODEL_PARAMS = {
     'n_estimators': 200,
     'max_depth': 10,
     'random_state': 42,
-    'n_jobs': -1,  # Добавляем использование всех ядер
-    'verbose': 1  # Включаем вывод прогресса
+    'n_jobs': -1,
+    'verbose': 1
 }
 
 
