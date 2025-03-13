@@ -6,7 +6,6 @@ venv/
 
 # Данные
 *.db
-*.xlsx
 reports/
 
 # IDE
